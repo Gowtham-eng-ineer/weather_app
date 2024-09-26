@@ -1,1 +1,1 @@
-# frontend_weather_app
+# frontend weather app
