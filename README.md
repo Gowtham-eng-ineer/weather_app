@@ -10,7 +10,7 @@ This Weather App provides accurate weather forecasts for any location. Follow th
 # Running the Frontend  
 1. Navigate to the project's frontend directory.  
    ```bash  
-   cd frontend  
+   cd frontend_weather_app  
    ```  
 2. Install the required dependencies by running:  
    ```bash  
@@ -25,7 +25,7 @@ This Weather App provides accurate weather forecasts for any location. Follow th
 # Running the Backend  
 1. Navigate to the backend directory of the project.  
    ```bash  
-   cd backend  
+   cd backend_weather_app  
    ```  
 2. Install the required dependencies by running:  
    ```bash  
