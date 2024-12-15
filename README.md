@@ -1,10 +1,6 @@
-# frontend and backend weather app
-Here’s a sample README file section for your Weather App:  
-
----
-
+   # frontend and backend weather app
+   
 # How to Run the Weather App  
-
 This Weather App provides accurate weather forecasts for any location. Follow the steps below to set up and run the application.  
 
 # Prerequisites  
